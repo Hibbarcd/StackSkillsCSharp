@@ -1,0 +1,11 @@
+C:\Users\hibba\sandbox\stackSkills\c#master\switchCase\bin\Debug\netcoreapp2.2\switchCase.deps.json
+C:\Users\hibba\sandbox\stackSkills\c#master\switchCase\bin\Debug\netcoreapp2.2\switchCase.runtimeconfig.json
+C:\Users\hibba\sandbox\stackSkills\c#master\switchCase\bin\Debug\netcoreapp2.2\switchCase.runtimeconfig.dev.json
+C:\Users\hibba\sandbox\stackSkills\c#master\switchCase\bin\Debug\netcoreapp2.2\switchCase.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\switchCase\bin\Debug\netcoreapp2.2\switchCase.pdb
+C:\Users\hibba\sandbox\stackSkills\c#master\switchCase\obj\Debug\netcoreapp2.2\switchCase.csprojAssemblyReference.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\switchCase\obj\Debug\netcoreapp2.2\switchCase.csproj.CoreCompileInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\switchCase\obj\Debug\netcoreapp2.2\switchCase.AssemblyInfoInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\switchCase\obj\Debug\netcoreapp2.2\switchCase.AssemblyInfo.cs
+C:\Users\hibba\sandbox\stackSkills\c#master\switchCase\obj\Debug\netcoreapp2.2\switchCase.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\switchCase\obj\Debug\netcoreapp2.2\switchCase.pdb

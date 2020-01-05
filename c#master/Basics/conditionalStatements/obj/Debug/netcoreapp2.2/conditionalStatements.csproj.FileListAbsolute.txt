@@ -1,0 +1,11 @@
+C:\Users\hibba\sandbox\stackSkills\c#master\conditionalStatements\bin\Debug\netcoreapp2.2\conditionalStatements.deps.json
+C:\Users\hibba\sandbox\stackSkills\c#master\conditionalStatements\bin\Debug\netcoreapp2.2\conditionalStatements.runtimeconfig.json
+C:\Users\hibba\sandbox\stackSkills\c#master\conditionalStatements\bin\Debug\netcoreapp2.2\conditionalStatements.runtimeconfig.dev.json
+C:\Users\hibba\sandbox\stackSkills\c#master\conditionalStatements\bin\Debug\netcoreapp2.2\conditionalStatements.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\conditionalStatements\bin\Debug\netcoreapp2.2\conditionalStatements.pdb
+C:\Users\hibba\sandbox\stackSkills\c#master\conditionalStatements\obj\Debug\netcoreapp2.2\conditionalStatements.csprojAssemblyReference.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\conditionalStatements\obj\Debug\netcoreapp2.2\conditionalStatements.csproj.CoreCompileInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\conditionalStatements\obj\Debug\netcoreapp2.2\conditionalStatements.AssemblyInfoInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\conditionalStatements\obj\Debug\netcoreapp2.2\conditionalStatements.AssemblyInfo.cs
+C:\Users\hibba\sandbox\stackSkills\c#master\conditionalStatements\obj\Debug\netcoreapp2.2\conditionalStatements.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\conditionalStatements\obj\Debug\netcoreapp2.2\conditionalStatements.pdb

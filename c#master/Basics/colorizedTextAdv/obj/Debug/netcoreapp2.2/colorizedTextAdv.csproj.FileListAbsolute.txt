@@ -1,0 +1,11 @@
+C:\Users\hibba\sandbox\stackSkills\c#master\colorizedTextAdv\bin\Debug\netcoreapp2.2\colorizedTextAdv.deps.json
+C:\Users\hibba\sandbox\stackSkills\c#master\colorizedTextAdv\bin\Debug\netcoreapp2.2\colorizedTextAdv.runtimeconfig.json
+C:\Users\hibba\sandbox\stackSkills\c#master\colorizedTextAdv\bin\Debug\netcoreapp2.2\colorizedTextAdv.runtimeconfig.dev.json
+C:\Users\hibba\sandbox\stackSkills\c#master\colorizedTextAdv\bin\Debug\netcoreapp2.2\colorizedTextAdv.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\colorizedTextAdv\bin\Debug\netcoreapp2.2\colorizedTextAdv.pdb
+C:\Users\hibba\sandbox\stackSkills\c#master\colorizedTextAdv\obj\Debug\netcoreapp2.2\colorizedTextAdv.csprojAssemblyReference.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\colorizedTextAdv\obj\Debug\netcoreapp2.2\colorizedTextAdv.csproj.CoreCompileInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\colorizedTextAdv\obj\Debug\netcoreapp2.2\colorizedTextAdv.AssemblyInfoInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\colorizedTextAdv\obj\Debug\netcoreapp2.2\colorizedTextAdv.AssemblyInfo.cs
+C:\Users\hibba\sandbox\stackSkills\c#master\colorizedTextAdv\obj\Debug\netcoreapp2.2\colorizedTextAdv.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\colorizedTextAdv\obj\Debug\netcoreapp2.2\colorizedTextAdv.pdb

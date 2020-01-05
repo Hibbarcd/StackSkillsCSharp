@@ -1,0 +1,11 @@
+C:\Users\hibba\sandbox\stackSkills\c#master\loopsMenuProj\bin\Debug\netcoreapp2.2\loopsMenuProj.deps.json
+C:\Users\hibba\sandbox\stackSkills\c#master\loopsMenuProj\bin\Debug\netcoreapp2.2\loopsMenuProj.runtimeconfig.json
+C:\Users\hibba\sandbox\stackSkills\c#master\loopsMenuProj\bin\Debug\netcoreapp2.2\loopsMenuProj.runtimeconfig.dev.json
+C:\Users\hibba\sandbox\stackSkills\c#master\loopsMenuProj\bin\Debug\netcoreapp2.2\loopsMenuProj.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\loopsMenuProj\bin\Debug\netcoreapp2.2\loopsMenuProj.pdb
+C:\Users\hibba\sandbox\stackSkills\c#master\loopsMenuProj\obj\Debug\netcoreapp2.2\loopsMenuProj.csprojAssemblyReference.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\loopsMenuProj\obj\Debug\netcoreapp2.2\loopsMenuProj.csproj.CoreCompileInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\loopsMenuProj\obj\Debug\netcoreapp2.2\loopsMenuProj.AssemblyInfoInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\loopsMenuProj\obj\Debug\netcoreapp2.2\loopsMenuProj.AssemblyInfo.cs
+C:\Users\hibba\sandbox\stackSkills\c#master\loopsMenuProj\obj\Debug\netcoreapp2.2\loopsMenuProj.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\loopsMenuProj\obj\Debug\netcoreapp2.2\loopsMenuProj.pdb

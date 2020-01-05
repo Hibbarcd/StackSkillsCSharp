@@ -1,0 +1,11 @@
+C:\Users\hibba\sandbox\stackSkills\c#master\arenaFighterGame\bin\Debug\netcoreapp2.2\arenaFighterGame.deps.json
+C:\Users\hibba\sandbox\stackSkills\c#master\arenaFighterGame\bin\Debug\netcoreapp2.2\arenaFighterGame.runtimeconfig.json
+C:\Users\hibba\sandbox\stackSkills\c#master\arenaFighterGame\bin\Debug\netcoreapp2.2\arenaFighterGame.runtimeconfig.dev.json
+C:\Users\hibba\sandbox\stackSkills\c#master\arenaFighterGame\bin\Debug\netcoreapp2.2\arenaFighterGame.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\arenaFighterGame\bin\Debug\netcoreapp2.2\arenaFighterGame.pdb
+C:\Users\hibba\sandbox\stackSkills\c#master\arenaFighterGame\obj\Debug\netcoreapp2.2\arenaFighterGame.csprojAssemblyReference.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\arenaFighterGame\obj\Debug\netcoreapp2.2\arenaFighterGame.csproj.CoreCompileInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\arenaFighterGame\obj\Debug\netcoreapp2.2\arenaFighterGame.AssemblyInfoInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\arenaFighterGame\obj\Debug\netcoreapp2.2\arenaFighterGame.AssemblyInfo.cs
+C:\Users\hibba\sandbox\stackSkills\c#master\arenaFighterGame\obj\Debug\netcoreapp2.2\arenaFighterGame.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\arenaFighterGame\obj\Debug\netcoreapp2.2\arenaFighterGame.pdb

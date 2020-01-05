@@ -1,0 +1,11 @@
+C:\Users\hibba\sandbox\stackSkills\c#master\formatting\bin\Debug\netcoreapp2.2\formatting.deps.json
+C:\Users\hibba\sandbox\stackSkills\c#master\formatting\bin\Debug\netcoreapp2.2\formatting.runtimeconfig.json
+C:\Users\hibba\sandbox\stackSkills\c#master\formatting\bin\Debug\netcoreapp2.2\formatting.runtimeconfig.dev.json
+C:\Users\hibba\sandbox\stackSkills\c#master\formatting\bin\Debug\netcoreapp2.2\formatting.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\formatting\bin\Debug\netcoreapp2.2\formatting.pdb
+C:\Users\hibba\sandbox\stackSkills\c#master\formatting\obj\Debug\netcoreapp2.2\formatting.csprojAssemblyReference.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\formatting\obj\Debug\netcoreapp2.2\formatting.csproj.CoreCompileInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\formatting\obj\Debug\netcoreapp2.2\formatting.AssemblyInfoInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\formatting\obj\Debug\netcoreapp2.2\formatting.AssemblyInfo.cs
+C:\Users\hibba\sandbox\stackSkills\c#master\formatting\obj\Debug\netcoreapp2.2\formatting.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\formatting\obj\Debug\netcoreapp2.2\formatting.pdb

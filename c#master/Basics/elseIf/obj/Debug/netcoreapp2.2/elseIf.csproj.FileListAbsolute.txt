@@ -1,0 +1,11 @@
+C:\Users\hibba\sandbox\stackSkills\c#master\elseIf\bin\Debug\netcoreapp2.2\elseIf.deps.json
+C:\Users\hibba\sandbox\stackSkills\c#master\elseIf\bin\Debug\netcoreapp2.2\elseIf.runtimeconfig.json
+C:\Users\hibba\sandbox\stackSkills\c#master\elseIf\bin\Debug\netcoreapp2.2\elseIf.runtimeconfig.dev.json
+C:\Users\hibba\sandbox\stackSkills\c#master\elseIf\bin\Debug\netcoreapp2.2\elseIf.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\elseIf\bin\Debug\netcoreapp2.2\elseIf.pdb
+C:\Users\hibba\sandbox\stackSkills\c#master\elseIf\obj\Debug\netcoreapp2.2\elseIf.csprojAssemblyReference.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\elseIf\obj\Debug\netcoreapp2.2\elseIf.csproj.CoreCompileInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\elseIf\obj\Debug\netcoreapp2.2\elseIf.AssemblyInfoInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\elseIf\obj\Debug\netcoreapp2.2\elseIf.AssemblyInfo.cs
+C:\Users\hibba\sandbox\stackSkills\c#master\elseIf\obj\Debug\netcoreapp2.2\elseIf.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\elseIf\obj\Debug\netcoreapp2.2\elseIf.pdb

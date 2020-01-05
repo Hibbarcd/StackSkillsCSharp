@@ -1,0 +1,11 @@
+C:\Users\hibba\sandbox\stackSkills\c#master\nestedConditionals\bin\Debug\netcoreapp2.2\nestedConditionals.deps.json
+C:\Users\hibba\sandbox\stackSkills\c#master\nestedConditionals\bin\Debug\netcoreapp2.2\nestedConditionals.runtimeconfig.json
+C:\Users\hibba\sandbox\stackSkills\c#master\nestedConditionals\bin\Debug\netcoreapp2.2\nestedConditionals.runtimeconfig.dev.json
+C:\Users\hibba\sandbox\stackSkills\c#master\nestedConditionals\bin\Debug\netcoreapp2.2\nestedConditionals.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\nestedConditionals\bin\Debug\netcoreapp2.2\nestedConditionals.pdb
+C:\Users\hibba\sandbox\stackSkills\c#master\nestedConditionals\obj\Debug\netcoreapp2.2\nestedConditionals.csprojAssemblyReference.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\nestedConditionals\obj\Debug\netcoreapp2.2\nestedConditionals.csproj.CoreCompileInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\nestedConditionals\obj\Debug\netcoreapp2.2\nestedConditionals.AssemblyInfoInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\nestedConditionals\obj\Debug\netcoreapp2.2\nestedConditionals.AssemblyInfo.cs
+C:\Users\hibba\sandbox\stackSkills\c#master\nestedConditionals\obj\Debug\netcoreapp2.2\nestedConditionals.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\nestedConditionals\obj\Debug\netcoreapp2.2\nestedConditionals.pdb

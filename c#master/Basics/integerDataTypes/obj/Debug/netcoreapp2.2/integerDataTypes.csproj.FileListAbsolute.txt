@@ -1,0 +1,11 @@
+C:\Users\hibba\sandbox\stackSkills\c#master\integerDataTypes\bin\Debug\netcoreapp2.2\integerDataTypes.deps.json
+C:\Users\hibba\sandbox\stackSkills\c#master\integerDataTypes\bin\Debug\netcoreapp2.2\integerDataTypes.runtimeconfig.json
+C:\Users\hibba\sandbox\stackSkills\c#master\integerDataTypes\bin\Debug\netcoreapp2.2\integerDataTypes.runtimeconfig.dev.json
+C:\Users\hibba\sandbox\stackSkills\c#master\integerDataTypes\bin\Debug\netcoreapp2.2\integerDataTypes.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\integerDataTypes\bin\Debug\netcoreapp2.2\integerDataTypes.pdb
+C:\Users\hibba\sandbox\stackSkills\c#master\integerDataTypes\obj\Debug\netcoreapp2.2\integerDataTypes.csprojAssemblyReference.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\integerDataTypes\obj\Debug\netcoreapp2.2\integerDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\integerDataTypes\obj\Debug\netcoreapp2.2\integerDataTypes.AssemblyInfoInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\integerDataTypes\obj\Debug\netcoreapp2.2\integerDataTypes.AssemblyInfo.cs
+C:\Users\hibba\sandbox\stackSkills\c#master\integerDataTypes\obj\Debug\netcoreapp2.2\integerDataTypes.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\integerDataTypes\obj\Debug\netcoreapp2.2\integerDataTypes.pdb

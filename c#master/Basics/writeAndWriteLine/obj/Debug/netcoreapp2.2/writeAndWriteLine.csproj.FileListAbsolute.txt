@@ -1,0 +1,11 @@
+C:\Users\hibba\sandbox\stackSkills\c#master\writeAndWriteLine\bin\Debug\netcoreapp2.2\writeAndWriteLine.deps.json
+C:\Users\hibba\sandbox\stackSkills\c#master\writeAndWriteLine\bin\Debug\netcoreapp2.2\writeAndWriteLine.runtimeconfig.json
+C:\Users\hibba\sandbox\stackSkills\c#master\writeAndWriteLine\bin\Debug\netcoreapp2.2\writeAndWriteLine.runtimeconfig.dev.json
+C:\Users\hibba\sandbox\stackSkills\c#master\writeAndWriteLine\bin\Debug\netcoreapp2.2\writeAndWriteLine.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\writeAndWriteLine\bin\Debug\netcoreapp2.2\writeAndWriteLine.pdb
+C:\Users\hibba\sandbox\stackSkills\c#master\writeAndWriteLine\obj\Debug\netcoreapp2.2\writeAndWriteLine.csprojAssemblyReference.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\writeAndWriteLine\obj\Debug\netcoreapp2.2\writeAndWriteLine.csproj.CoreCompileInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\writeAndWriteLine\obj\Debug\netcoreapp2.2\writeAndWriteLine.AssemblyInfoInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\writeAndWriteLine\obj\Debug\netcoreapp2.2\writeAndWriteLine.AssemblyInfo.cs
+C:\Users\hibba\sandbox\stackSkills\c#master\writeAndWriteLine\obj\Debug\netcoreapp2.2\writeAndWriteLine.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\writeAndWriteLine\obj\Debug\netcoreapp2.2\writeAndWriteLine.pdb

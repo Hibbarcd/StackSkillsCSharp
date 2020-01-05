@@ -1,0 +1,11 @@
+C:\Users\hibba\sandbox\stackSkills\c#master\colorizedText\bin\Debug\netcoreapp2.2\colorizedText.deps.json
+C:\Users\hibba\sandbox\stackSkills\c#master\colorizedText\bin\Debug\netcoreapp2.2\colorizedText.runtimeconfig.json
+C:\Users\hibba\sandbox\stackSkills\c#master\colorizedText\bin\Debug\netcoreapp2.2\colorizedText.runtimeconfig.dev.json
+C:\Users\hibba\sandbox\stackSkills\c#master\colorizedText\bin\Debug\netcoreapp2.2\colorizedText.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\colorizedText\bin\Debug\netcoreapp2.2\colorizedText.pdb
+C:\Users\hibba\sandbox\stackSkills\c#master\colorizedText\obj\Debug\netcoreapp2.2\colorizedText.csprojAssemblyReference.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\colorizedText\obj\Debug\netcoreapp2.2\colorizedText.csproj.CoreCompileInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\colorizedText\obj\Debug\netcoreapp2.2\colorizedText.AssemblyInfoInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\colorizedText\obj\Debug\netcoreapp2.2\colorizedText.AssemblyInfo.cs
+C:\Users\hibba\sandbox\stackSkills\c#master\colorizedText\obj\Debug\netcoreapp2.2\colorizedText.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\colorizedText\obj\Debug\netcoreapp2.2\colorizedText.pdb

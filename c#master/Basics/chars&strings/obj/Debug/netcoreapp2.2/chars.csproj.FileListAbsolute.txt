@@ -1,0 +1,11 @@
+C:\Users\hibba\sandbox\stackSkills\c#master\chars\obj\Debug\netcoreapp2.2\chars.csprojAssemblyReference.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\chars\obj\Debug\netcoreapp2.2\chars.csproj.CoreCompileInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\chars\obj\Debug\netcoreapp2.2\chars.AssemblyInfoInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\chars\obj\Debug\netcoreapp2.2\chars.AssemblyInfo.cs
+C:\Users\hibba\sandbox\stackSkills\c#master\chars\bin\Debug\netcoreapp2.2\chars.deps.json
+C:\Users\hibba\sandbox\stackSkills\c#master\chars\bin\Debug\netcoreapp2.2\chars.runtimeconfig.json
+C:\Users\hibba\sandbox\stackSkills\c#master\chars\bin\Debug\netcoreapp2.2\chars.runtimeconfig.dev.json
+C:\Users\hibba\sandbox\stackSkills\c#master\chars\bin\Debug\netcoreapp2.2\chars.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\chars\bin\Debug\netcoreapp2.2\chars.pdb
+C:\Users\hibba\sandbox\stackSkills\c#master\chars\obj\Debug\netcoreapp2.2\chars.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\chars\obj\Debug\netcoreapp2.2\chars.pdb

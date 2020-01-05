@@ -1,0 +1,11 @@
+C:\Users\hibba\sandbox\stackSkills\c#master\arrays\bin\Debug\netcoreapp2.2\arrays.deps.json
+C:\Users\hibba\sandbox\stackSkills\c#master\arrays\bin\Debug\netcoreapp2.2\arrays.runtimeconfig.json
+C:\Users\hibba\sandbox\stackSkills\c#master\arrays\bin\Debug\netcoreapp2.2\arrays.runtimeconfig.dev.json
+C:\Users\hibba\sandbox\stackSkills\c#master\arrays\bin\Debug\netcoreapp2.2\arrays.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\arrays\bin\Debug\netcoreapp2.2\arrays.pdb
+C:\Users\hibba\sandbox\stackSkills\c#master\arrays\obj\Debug\netcoreapp2.2\arrays.csprojAssemblyReference.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\arrays\obj\Debug\netcoreapp2.2\arrays.csproj.CoreCompileInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\arrays\obj\Debug\netcoreapp2.2\arrays.AssemblyInfoInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\arrays\obj\Debug\netcoreapp2.2\arrays.AssemblyInfo.cs
+C:\Users\hibba\sandbox\stackSkills\c#master\arrays\obj\Debug\netcoreapp2.2\arrays.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\arrays\obj\Debug\netcoreapp2.2\arrays.pdb

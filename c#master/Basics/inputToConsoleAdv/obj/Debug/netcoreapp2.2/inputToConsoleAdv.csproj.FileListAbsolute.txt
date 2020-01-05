@@ -1,0 +1,11 @@
+C:\Users\hibba\sandbox\stackSkills\c#master\inputToConsoleAdv\bin\Debug\netcoreapp2.2\inputToConsoleAdv.deps.json
+C:\Users\hibba\sandbox\stackSkills\c#master\inputToConsoleAdv\bin\Debug\netcoreapp2.2\inputToConsoleAdv.runtimeconfig.json
+C:\Users\hibba\sandbox\stackSkills\c#master\inputToConsoleAdv\bin\Debug\netcoreapp2.2\inputToConsoleAdv.runtimeconfig.dev.json
+C:\Users\hibba\sandbox\stackSkills\c#master\inputToConsoleAdv\bin\Debug\netcoreapp2.2\inputToConsoleAdv.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\inputToConsoleAdv\bin\Debug\netcoreapp2.2\inputToConsoleAdv.pdb
+C:\Users\hibba\sandbox\stackSkills\c#master\inputToConsoleAdv\obj\Debug\netcoreapp2.2\inputToConsoleAdv.csprojAssemblyReference.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\inputToConsoleAdv\obj\Debug\netcoreapp2.2\inputToConsoleAdv.csproj.CoreCompileInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\inputToConsoleAdv\obj\Debug\netcoreapp2.2\inputToConsoleAdv.AssemblyInfoInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\inputToConsoleAdv\obj\Debug\netcoreapp2.2\inputToConsoleAdv.AssemblyInfo.cs
+C:\Users\hibba\sandbox\stackSkills\c#master\inputToConsoleAdv\obj\Debug\netcoreapp2.2\inputToConsoleAdv.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\inputToConsoleAdv\obj\Debug\netcoreapp2.2\inputToConsoleAdv.pdb

@@ -1,0 +1,11 @@
+C:\Users\hibba\sandbox\stackSkills\c#master\loopsIntro\bin\Debug\netcoreapp2.2\loopsIntro.deps.json
+C:\Users\hibba\sandbox\stackSkills\c#master\loopsIntro\bin\Debug\netcoreapp2.2\loopsIntro.runtimeconfig.json
+C:\Users\hibba\sandbox\stackSkills\c#master\loopsIntro\bin\Debug\netcoreapp2.2\loopsIntro.runtimeconfig.dev.json
+C:\Users\hibba\sandbox\stackSkills\c#master\loopsIntro\bin\Debug\netcoreapp2.2\loopsIntro.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\loopsIntro\bin\Debug\netcoreapp2.2\loopsIntro.pdb
+C:\Users\hibba\sandbox\stackSkills\c#master\loopsIntro\obj\Debug\netcoreapp2.2\loopsIntro.csprojAssemblyReference.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\loopsIntro\obj\Debug\netcoreapp2.2\loopsIntro.csproj.CoreCompileInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\loopsIntro\obj\Debug\netcoreapp2.2\loopsIntro.AssemblyInfoInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\loopsIntro\obj\Debug\netcoreapp2.2\loopsIntro.AssemblyInfo.cs
+C:\Users\hibba\sandbox\stackSkills\c#master\loopsIntro\obj\Debug\netcoreapp2.2\loopsIntro.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\loopsIntro\obj\Debug\netcoreapp2.2\loopsIntro.pdb

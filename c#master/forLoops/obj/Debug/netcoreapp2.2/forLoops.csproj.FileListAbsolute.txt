@@ -1,0 +1,11 @@
+C:\Users\hibba\sandbox\stackSkills\c#master\forLoops\bin\Debug\netcoreapp2.2\forLoops.deps.json
+C:\Users\hibba\sandbox\stackSkills\c#master\forLoops\bin\Debug\netcoreapp2.2\forLoops.runtimeconfig.json
+C:\Users\hibba\sandbox\stackSkills\c#master\forLoops\bin\Debug\netcoreapp2.2\forLoops.runtimeconfig.dev.json
+C:\Users\hibba\sandbox\stackSkills\c#master\forLoops\bin\Debug\netcoreapp2.2\forLoops.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\forLoops\bin\Debug\netcoreapp2.2\forLoops.pdb
+C:\Users\hibba\sandbox\stackSkills\c#master\forLoops\obj\Debug\netcoreapp2.2\forLoops.csprojAssemblyReference.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\forLoops\obj\Debug\netcoreapp2.2\forLoops.csproj.CoreCompileInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\forLoops\obj\Debug\netcoreapp2.2\forLoops.AssemblyInfoInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\forLoops\obj\Debug\netcoreapp2.2\forLoops.AssemblyInfo.cs
+C:\Users\hibba\sandbox\stackSkills\c#master\forLoops\obj\Debug\netcoreapp2.2\forLoops.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\forLoops\obj\Debug\netcoreapp2.2\forLoops.pdb

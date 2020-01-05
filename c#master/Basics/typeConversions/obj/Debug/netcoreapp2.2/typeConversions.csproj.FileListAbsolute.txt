@@ -1,0 +1,11 @@
+C:\Users\hibba\sandbox\stackSkills\c#master\typeConversions\obj\Debug\netcoreapp2.2\typeConversions.csprojAssemblyReference.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\typeConversions\obj\Debug\netcoreapp2.2\typeConversions.csproj.CoreCompileInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\typeConversions\obj\Debug\netcoreapp2.2\typeConversions.AssemblyInfoInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\typeConversions\obj\Debug\netcoreapp2.2\typeConversions.AssemblyInfo.cs
+C:\Users\hibba\sandbox\stackSkills\c#master\typeConversions\bin\Debug\netcoreapp2.2\typeConversions.deps.json
+C:\Users\hibba\sandbox\stackSkills\c#master\typeConversions\bin\Debug\netcoreapp2.2\typeConversions.runtimeconfig.json
+C:\Users\hibba\sandbox\stackSkills\c#master\typeConversions\bin\Debug\netcoreapp2.2\typeConversions.runtimeconfig.dev.json
+C:\Users\hibba\sandbox\stackSkills\c#master\typeConversions\bin\Debug\netcoreapp2.2\typeConversions.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\typeConversions\bin\Debug\netcoreapp2.2\typeConversions.pdb
+C:\Users\hibba\sandbox\stackSkills\c#master\typeConversions\obj\Debug\netcoreapp2.2\typeConversions.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\typeConversions\obj\Debug\netcoreapp2.2\typeConversions.pdb

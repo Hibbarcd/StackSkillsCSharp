@@ -1,0 +1,11 @@
+C:\Users\hibba\sandbox\stackSkills\c#master\stringsAdv\bin\Debug\netcoreapp2.2\stringsAdv.deps.json
+C:\Users\hibba\sandbox\stackSkills\c#master\stringsAdv\bin\Debug\netcoreapp2.2\stringsAdv.runtimeconfig.json
+C:\Users\hibba\sandbox\stackSkills\c#master\stringsAdv\bin\Debug\netcoreapp2.2\stringsAdv.runtimeconfig.dev.json
+C:\Users\hibba\sandbox\stackSkills\c#master\stringsAdv\bin\Debug\netcoreapp2.2\stringsAdv.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\stringsAdv\bin\Debug\netcoreapp2.2\stringsAdv.pdb
+C:\Users\hibba\sandbox\stackSkills\c#master\stringsAdv\obj\Debug\netcoreapp2.2\stringsAdv.csprojAssemblyReference.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\stringsAdv\obj\Debug\netcoreapp2.2\stringsAdv.csproj.CoreCompileInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\stringsAdv\obj\Debug\netcoreapp2.2\stringsAdv.AssemblyInfoInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\stringsAdv\obj\Debug\netcoreapp2.2\stringsAdv.AssemblyInfo.cs
+C:\Users\hibba\sandbox\stackSkills\c#master\stringsAdv\obj\Debug\netcoreapp2.2\stringsAdv.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\stringsAdv\obj\Debug\netcoreapp2.2\stringsAdv.pdb

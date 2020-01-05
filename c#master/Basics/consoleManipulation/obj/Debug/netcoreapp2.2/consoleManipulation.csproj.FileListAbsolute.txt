@@ -1,0 +1,11 @@
+C:\Users\hibba\sandbox\stackSkills\c#master\consoleManipulation\obj\Debug\netcoreapp2.2\consoleManipulation.csprojAssemblyReference.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\consoleManipulation\obj\Debug\netcoreapp2.2\consoleManipulation.csproj.CoreCompileInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\consoleManipulation\obj\Debug\netcoreapp2.2\consoleManipulation.AssemblyInfoInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\consoleManipulation\obj\Debug\netcoreapp2.2\consoleManipulation.AssemblyInfo.cs
+C:\Users\hibba\sandbox\stackSkills\c#master\consoleManipulation\bin\Debug\netcoreapp2.2\consoleManipulation.deps.json
+C:\Users\hibba\sandbox\stackSkills\c#master\consoleManipulation\bin\Debug\netcoreapp2.2\consoleManipulation.runtimeconfig.json
+C:\Users\hibba\sandbox\stackSkills\c#master\consoleManipulation\bin\Debug\netcoreapp2.2\consoleManipulation.runtimeconfig.dev.json
+C:\Users\hibba\sandbox\stackSkills\c#master\consoleManipulation\bin\Debug\netcoreapp2.2\consoleManipulation.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\consoleManipulation\bin\Debug\netcoreapp2.2\consoleManipulation.pdb
+C:\Users\hibba\sandbox\stackSkills\c#master\consoleManipulation\obj\Debug\netcoreapp2.2\consoleManipulation.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\consoleManipulation\obj\Debug\netcoreapp2.2\consoleManipulation.pdb

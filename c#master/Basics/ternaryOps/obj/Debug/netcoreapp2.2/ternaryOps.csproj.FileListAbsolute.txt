@@ -1,0 +1,11 @@
+C:\Users\hibba\sandbox\stackSkills\c#master\ternaryOps\bin\Debug\netcoreapp2.2\ternaryOps.deps.json
+C:\Users\hibba\sandbox\stackSkills\c#master\ternaryOps\bin\Debug\netcoreapp2.2\ternaryOps.runtimeconfig.json
+C:\Users\hibba\sandbox\stackSkills\c#master\ternaryOps\bin\Debug\netcoreapp2.2\ternaryOps.runtimeconfig.dev.json
+C:\Users\hibba\sandbox\stackSkills\c#master\ternaryOps\bin\Debug\netcoreapp2.2\ternaryOps.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\ternaryOps\bin\Debug\netcoreapp2.2\ternaryOps.pdb
+C:\Users\hibba\sandbox\stackSkills\c#master\ternaryOps\obj\Debug\netcoreapp2.2\ternaryOps.csprojAssemblyReference.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\ternaryOps\obj\Debug\netcoreapp2.2\ternaryOps.csproj.CoreCompileInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\ternaryOps\obj\Debug\netcoreapp2.2\ternaryOps.AssemblyInfoInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\ternaryOps\obj\Debug\netcoreapp2.2\ternaryOps.AssemblyInfo.cs
+C:\Users\hibba\sandbox\stackSkills\c#master\ternaryOps\obj\Debug\netcoreapp2.2\ternaryOps.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\ternaryOps\obj\Debug\netcoreapp2.2\ternaryOps.pdb

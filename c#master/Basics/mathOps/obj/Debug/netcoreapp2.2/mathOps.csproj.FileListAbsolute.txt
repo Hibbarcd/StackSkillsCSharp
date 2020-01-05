@@ -1,0 +1,11 @@
+C:\Users\hibba\sandbox\stackSkills\c#master\mathOps\bin\Debug\netcoreapp2.2\mathOps.deps.json
+C:\Users\hibba\sandbox\stackSkills\c#master\mathOps\bin\Debug\netcoreapp2.2\mathOps.runtimeconfig.json
+C:\Users\hibba\sandbox\stackSkills\c#master\mathOps\bin\Debug\netcoreapp2.2\mathOps.runtimeconfig.dev.json
+C:\Users\hibba\sandbox\stackSkills\c#master\mathOps\bin\Debug\netcoreapp2.2\mathOps.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\mathOps\bin\Debug\netcoreapp2.2\mathOps.pdb
+C:\Users\hibba\sandbox\stackSkills\c#master\mathOps\obj\Debug\netcoreapp2.2\mathOps.csprojAssemblyReference.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\mathOps\obj\Debug\netcoreapp2.2\mathOps.csproj.CoreCompileInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\mathOps\obj\Debug\netcoreapp2.2\mathOps.AssemblyInfoInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\mathOps\obj\Debug\netcoreapp2.2\mathOps.AssemblyInfo.cs
+C:\Users\hibba\sandbox\stackSkills\c#master\mathOps\obj\Debug\netcoreapp2.2\mathOps.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\mathOps\obj\Debug\netcoreapp2.2\mathOps.pdb

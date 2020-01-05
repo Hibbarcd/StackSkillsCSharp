@@ -1,0 +1,11 @@
+C:\Users\hibba\sandbox\stackSkills\c#master\evenOddChallenge\bin\Debug\netcoreapp2.2\evenOddChallenge.deps.json
+C:\Users\hibba\sandbox\stackSkills\c#master\evenOddChallenge\bin\Debug\netcoreapp2.2\evenOddChallenge.runtimeconfig.json
+C:\Users\hibba\sandbox\stackSkills\c#master\evenOddChallenge\bin\Debug\netcoreapp2.2\evenOddChallenge.runtimeconfig.dev.json
+C:\Users\hibba\sandbox\stackSkills\c#master\evenOddChallenge\bin\Debug\netcoreapp2.2\evenOddChallenge.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\evenOddChallenge\bin\Debug\netcoreapp2.2\evenOddChallenge.pdb
+C:\Users\hibba\sandbox\stackSkills\c#master\evenOddChallenge\obj\Debug\netcoreapp2.2\evenOddChallenge.csprojAssemblyReference.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\evenOddChallenge\obj\Debug\netcoreapp2.2\evenOddChallenge.csproj.CoreCompileInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\evenOddChallenge\obj\Debug\netcoreapp2.2\evenOddChallenge.AssemblyInfoInputs.cache
+C:\Users\hibba\sandbox\stackSkills\c#master\evenOddChallenge\obj\Debug\netcoreapp2.2\evenOddChallenge.AssemblyInfo.cs
+C:\Users\hibba\sandbox\stackSkills\c#master\evenOddChallenge\obj\Debug\netcoreapp2.2\evenOddChallenge.dll
+C:\Users\hibba\sandbox\stackSkills\c#master\evenOddChallenge\obj\Debug\netcoreapp2.2\evenOddChallenge.pdb
